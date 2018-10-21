@@ -11,6 +11,18 @@
  - 手机：18883248297
  - Email：975385373@qq.com
  - 目前在职状态：在职
+ 
+ ---
+# 技能清单
+
+ - 熟练使用Java，两年开发经验，熟悉常用Java API,熟悉常用数据结构，集合框架，熟悉多线程与反射
+ - 熟练使用Spring，SpringMVC，Hibernate,Mybati的整合配置，以及使用进行业务接口的开发
+ - 拥有Bootstrap/EasyUI/Jquery/AJAX/HTML/JavaScript进行网页开发的经验,但最近一年并未有从事相关开发的经验
+ - 熟悉Mysql，能数量使用sql语句，有过对Mysql sql语句使用explain进行分析，基础优化的经验
+ - 熟悉PowerDesigner,Viso等UML建模工具，以及Axure和墨刀原型设计工具的使用，能根据相关业务，设计用例数据模型，设计表
+ - 熟悉Maven的使用，熟悉Svn与Git，熟悉Junit的使用
+ - 熟悉Tomcat和Nginx的使用，了解Linux，有独立部署Java Web项目的经验
+---
 ---
 # 工作经历
 
@@ -35,17 +47,7 @@ JAVA小组组长（负责APP 60%业务接口的开发与协调）
 ##### 项目介绍：
 上品专医是一个互联网医疗平台，Java服务端主要使用SSM构建整个项目。Web前端使用Bootstrap
 
----
-# 技能清单
 
- - 熟练使用Java，两年开发经验，熟悉常用Java API,熟悉常用数据结构，集合框架，熟悉多线程与反射
- - 熟练使用Spring，SpringMVC，Hibernate,Mybati的整合配置，以及使用进行业务接口的开发
- - 拥有Bootstrap/EasyUI/Jquery/AJAX/HTML/JavaScript进行网页开发的经验,但最近一年并未有从事相关开发的经验
- - 熟悉Mysql，能数量使用sql语句，有过对Mysql sql语句使用explain进行分析，基础优化的经验
- - 熟悉PowerDesigner,Viso等UML建模工具，以及Axure和墨刀原型设计工具的使用，能根据相关业务，设计用例数据模型，设计表
- - 熟悉Maven的使用，熟悉Svn与Git，熟悉Junit的使用
- - 熟悉Tomcat和Nginx的使用，了解Linux，有独立部署Java Web项目的经验
----
 # 自我评价
 
 喜欢开发，热爱编程，能够使用Maven构建整合Spring、SpringMVC、Mybatis等框架的Java Web项目。熟悉Mysql和数据库建模；了解微信公众号的开发，了解基于Bootstrap的Web页面开发。未来计划继续加强数据结构和算法部分的基础知识，以及多线程的实际运用。如有幸加入贵公司，必倾尽所能，同时也希望自己能有所成长，希望在5年内成为架构师
